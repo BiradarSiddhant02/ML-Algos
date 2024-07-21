@@ -1,0 +1,11 @@
+Linear Regression
+Logistic Regression
+Decision Tree
+SVM 
+Naive-Bayes 
+KNN
+K-means clustering
+Random Forest Algorithm
+Dimensionality Reduction
+Gradient Boosting
+AdaBoosting
